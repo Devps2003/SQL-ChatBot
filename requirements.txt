@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-experimental
+google-generativeai
+langchain_google_genai
+langchain-google-generativeai
+streamlit
+google-generativeai
+streamlit-chat
+retrying
+requests
+pandas
+frappe-client

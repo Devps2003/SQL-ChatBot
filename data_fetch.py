@@ -4,9 +4,9 @@ import sqlite3
 from sqlite3 import Error
 from frappeclient import FrappeClient
 
-url = "http://43.205.39.54"
-api_key = "1a7902ee177ab14"
-secret_key = "98a82ed1faeff06"
+url = ""
+api_key = ""
+secret_key = ""
 
 def fetch_all_data(doctype):
     client = FrappeClient(url)

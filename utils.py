@@ -16,7 +16,7 @@ def read_properties_file(file_path):
     config = configparser.ConfigParser()
     config.read(file_path)
     
-    gemini_api_key = "AIzaSyD6E3GE3r1ksnmYOAeYQRnvDJZMrMBihak"
+    gemini_api_key = ""
     
     return gemini_api_key
 
